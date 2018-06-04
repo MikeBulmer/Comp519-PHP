@@ -1,0 +1,65 @@
+/*<!--
+Author: Michael Bulmer
+Comp 519 Assignment 4
+Submission 25/12/2017
+
+CSS for gym.php some reuse from assignment 2.
+-->*/
+
+body{
+    background-color: #333;
+    font-family: Neucha;
+
+}
+
+h1{
+    text-align: center;
+    color: red;
+    text-shadow: 0px 0px 15px  #fff;
+    font-size: 40px;
+}
+
+input{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Neucha;
+    font-size: 20px;
+}
+
+
+select{
+    font-size: 14px;
+    padding:5px;
+    }
+
+button{
+    background-color: #333;
+    color: #eee;
+    border: none;
+    padding: 15px;
+    border-radius: 4px;
+    font-family: Neucha;
+
+
+}
+button:hover{
+    background-color: #3f3;
+    color: #000;
+    }
+
+div{
+    background-color: #ccc;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Neucha;
+    padding: 20px;
+    font-style: 20px;
+}
+label{
+    font-family: Neucha;
+}
+
+p{
+    color: #f00;
+}
